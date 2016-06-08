@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">AlzhFinder</string>
+    <string name="app_name">AlzFinder</string>
+    <string name="mensaje_login">Ingresa con tu Usuario y Contraseña.</string>
+    <string name="usuario_login">Usuario</string>
+    <string name="passwd_login">Contraseña</string>
+    <string name="boton_login">Ingresar</string>
 </resources>
